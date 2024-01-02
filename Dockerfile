@@ -1,4 +1,4 @@
-FROM node:20-apline
+FROM node:21-apline3.18
 
 WORKDIR /app
 COPY . .
